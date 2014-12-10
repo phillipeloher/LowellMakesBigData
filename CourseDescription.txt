@@ -1,0 +1,13 @@
+Note: All attendee’s will be eligible to receive a free $50 Amazon AWS credit after the class to encourage continued exploration of the big data concepts learned.
+
+Description:
+Have you ever wondered what Big Data is all about?  This class is an introductory course to the MapReduce distributed programming model that will let you analyze and process large datasets.  You will take part in a hands-on demonstration of using Hadoop MapReduce alongside the Hadoop Distributed File system and learn how to quickly and easily deploy your application using Amazon Web Services (no need for your own server farm!)
+
+If time permits, you will be challenged to ‘take on the Greeks’  and see if you can use the MapReduce framework to calculate a better precision of Pi!  In this approach, a short discussion of how to perform a distributed Monte-Carlo simulation will entail.  If you don’t finish, you can use your free AWS-credit to continue at home.
+
+Skills/Requirements:
+•  Basic to intermediate scripting or programming skills required (any of: Perl, Python, Java, C)
+•  Bring your own wifi-capable laptop (web-browser and text-editor required).  If you can not bring a computer, please contact us ahead of time as we might be able to supply one for you with advanced notice
+
+
+This education session generously supported by Amazon via the AWS in Education Grant award
