@@ -1,3 +1,6 @@
+Course Name:
+Big Data, easy as Pi
+
 Note: All attendee’s will be eligible to receive a free $50 Amazon AWS credit
 after the class to encourage continued exploration of the big data concepts
 learned.
